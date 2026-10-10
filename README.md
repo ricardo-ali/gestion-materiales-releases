@@ -4,7 +4,7 @@ Distribucion de la aplicacion portable para Windows x64. Este repositorio contie
 
 ## Descargar
 
-En [Releases](https://github.com/ricardo-ali/gestion-materiales-releases/releases), elegir el paquete completo `gestion-materiales-<version>-win-x64-*.7z` o `.zip`. Extraer y abrir `GestionMateriales.Host.exe`. Las instrucciones LEEME.md estan dentro del paquete.
+En [Releases](https://github.com/ricardo-ali/gestion-materiales-releases/releases), elegir el paquete completo `gestion-materiales-<version>-win-x64-*.zip`. Extraer y abrir `GestionMateriales.Host.exe`. Las instrucciones LEEME.md estan dentro del paquete.
 
 Los ZIP `app-*`, `dotnet-*`, `duckdb-*` y `publisher-*`, junto con `app-update.json`, son componentes para el actualizador integrado; no se instalan manualmente.
 
